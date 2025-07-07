@@ -1,0 +1,1 @@
+javascript:(function()%7Bdocument.addEventListener('click'%2C function(event) %7Bevent.target.remove()%3B%7D)%7D)()
